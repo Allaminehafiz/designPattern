@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethodModifie/FactoryMethodModifie.iml" filepath="$PROJECT_DIR$/FactoryMethodModifie/FactoryMethodModifie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryModifie/FactoryModifie.iml" filepath="$PROJECT_DIR$/FactoryModifie/FactoryModifie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designPatternTP1.iml" filepath="$PROJECT_DIR$/designPatternTP1.iml" />
+    </modules>
+  </component>
+</project>
